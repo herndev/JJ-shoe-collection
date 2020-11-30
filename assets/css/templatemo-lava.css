@@ -1259,3 +1259,21 @@ preloader
   color: white;
   background: linear-gradient(#E78102, #EC4C4C);
 }
+
+.collection_icon{
+  float: left;
+}
+
+@media (max-width: 991px) {
+  .collection_parent{
+    text-align: center;
+  }
+
+  .collection_icon{
+    float: none;
+    display: inline;
+    margin-bottom: 20px;
+    margin-left: 28px;
+  }
+
+}
