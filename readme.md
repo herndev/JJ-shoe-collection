@@ -4,9 +4,6 @@
 
 > A Sport Shoes business landing website
 
-<br />
-<br />
-
 ## Tools & Languages
 
 ### Languages
